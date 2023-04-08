@@ -1,3 +1,8 @@
+/** n The number of elements in the array.
+ *  findMininum method finds the minimum value in an array of integers.
+ *  @return The minimum value in the array.
+ *  arr is used for the array of integers to search for the minimum value.
+*/
 public class Main {
     public static void main(String[] args) {
         int[] arr = {10,5,32,3,45};
